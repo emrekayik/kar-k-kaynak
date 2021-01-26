@@ -11,7 +11,16 @@
 [Bir bileşikteki elementlerin yüzdesini hesaplayan python programı](https://github.com/bakkurt/python_calismalarim/blob/master/element_yuzdesi.py)
 
 [Pymunk 2d fizik kütüphanesi](https://github.com/viblo/pymunk)
-[]()
+
+[Türkçe Doğal dil işleme Python kütüphanesi](https://github.com/brolin59/trnlp)
+
+[Python ile Veri Bilimine Dalış](https://medium.com/deep-learning-turkiye/python-ile-veri-bilimine-dal%C4%B1%C5%9F-3f069260ebda)
+
+[Pybilim Matplotlib](https://pybilim.wordpress.com/)
+
+[Python SciPy](https://medium.com/deep-learning-turkiye/python-scipy-mod%C3%BCl%C3%BC-1-giri%C5%9F-temel-fonksiyonlar-da92473132bc)
+
+[Doğal dil işleme giriş](https://medium.com/data-science-tr/makine-%C3%B6%C4%9Frenmesi-dersleri-6-do%C4%9Fal-dil-i%CC%87%C5%9Fleme-nlp-453c3c6b062a)
 
 
 ## Javascript
@@ -31,6 +40,14 @@
 [Animasyonlar yapmak](https://www.createjs.com/tweenjs)
 
 [JavaScript dize kütüphanesi](https://vocajs.com/)
+
+[RegExr öğrenme ve test etme](https://regexr.com/)
+
+[Framework oluşturma](https://s3.amazonaws.com/dailyjs/files/build-a-javascript-framework.pdf)
+
+[MathJax](https://www.mathjax.org/#gettingstarted)
+
+[Console.log komutuna stil verme](https://avarekodcu.com/konu/11/javascript-console-log-komutunu-ozellestirme-kullanma)
 
 #### JQuery
 [JQuery Eklentileri](https://jquery-plugins.net/)
@@ -60,7 +77,9 @@
 
 [Google Formları HTML'e Dönüştürme](https://stefano.brilli.me/google-forms-html-exporter/)
 
+[basit bir şablon dili Handlebars](https://handlebarsjs.com/)
 
+[responsive elements](http://kumailht.com/responsive-elements/)
 
 ## CSS
 [Tailwind CSS kaynakları vb.](https://github.com/aniftyco/awesome-tailwindcss)
@@ -74,6 +93,8 @@
 [Icon Kütüphanesi](https://css.gg/app)
 
 [Kaydırma animasyonu](https://michalsnik.github.io/aos/)
+
+[PureCSS](https://purecss.io/)
 
 ## JSON
 [Periodik Tablo](https://github.com/Bowserinator/Periodic-Table-JSON)
@@ -102,8 +123,10 @@
 
 [Radio Astronomi](https://www.radio-astronomy.org/node/199)
 
+[Nesin Köyleri Kütüphanesi](https://nesinkoyleri.org/e-kutuphane/)
 
 ## Kategorisiz
 
 [Online Ekran Kaydetme](https://screenous.com/recorder#/recorder)
 
+[Rstagele veri üreteci](https://www.mockaroo.com/)
